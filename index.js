@@ -5,3 +5,4 @@ function printBadges(arr) {
   
   return arr;
 }
+
